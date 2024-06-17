@@ -17,6 +17,7 @@ export default function Homepage() {
           you have wandered the world.
         </h2>
       </section>
+      <button></button>
     </main>
   );
 }
